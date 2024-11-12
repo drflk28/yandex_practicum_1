@@ -137,7 +137,7 @@ span{
   margin-bottom: 100px;
 }
 
-.section-title{
+.digits__section-title{
   display: flex;
   justify-content: center;
   width: 60%;
@@ -148,7 +148,7 @@ span{
   margin-bottom: 0;
 }
 
-.section-subtitle{
+.digits__section-subtitle{
   display: flex;
   justify-content: center;
   width: 60%;
@@ -261,7 +261,7 @@ span{
   background-color: #1f1f1f;
 }
 
-.section-title_theme_dark{
+.kaufman_section-title_theme_dark{
   display: flex;
   justify-content: center;
   width: 60%;
@@ -273,7 +273,7 @@ span{
   color: #f2f2f2;
 }
 
-.section-subtitle_theme_dark{
+.kaufman_section-subtitle_theme_dark{
   display: flex;
   justify-content: center;
   width: 60%;
