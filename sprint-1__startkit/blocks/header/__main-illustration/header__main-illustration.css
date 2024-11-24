@@ -1,0 +1,11 @@
+.header__main-illustration{
+  background-image: url(sprint-1__startkit/images/two_again.png);
+  position: absolute;
+  background-size: cover;
+  background-repeat: no-repeat;
+  right: 0;
+  bottom: 0;
+  height: 608px;
+  width: 765px;
+  z-index: 50;
+}

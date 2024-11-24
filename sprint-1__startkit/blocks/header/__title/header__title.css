@@ -1,0 +1,12 @@
+.header__title {
+  width: 730px;
+  font-size: 102px;
+  color: black;
+  position: absolute;
+  top: 50%;                /* Центрирование сверху */
+  left: 64px;              /* Расстояние слева */
+  transform: translateY(-50%); /* Смещение элемента вверх на половину высоты */
+  font-weight: bold;
+  display: flex;
+  align-items: center;     /* Центрирование текста по вертикали */
+}

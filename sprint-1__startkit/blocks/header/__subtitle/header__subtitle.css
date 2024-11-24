@@ -1,0 +1,11 @@
+.header__subtitle{
+  width: 388px;
+  font-size: 18px;
+  position: absolute;
+  display: flex;
+  color: black;
+  align-items: center;
+  bottom:0;
+  margin-left: 64px;
+  margin-bottom: 60px;
+}

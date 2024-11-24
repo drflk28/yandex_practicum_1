@@ -1,0 +1,8 @@
+
+
+.footer__social-icon_social_vk{
+  display: flex;
+  height: 16px;
+  width: 16px;
+  background-image: url(../images/vk_color_white.svg);
+}

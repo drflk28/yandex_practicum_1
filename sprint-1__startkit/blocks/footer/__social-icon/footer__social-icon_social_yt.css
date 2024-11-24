@@ -1,0 +1,6 @@
+.footer__social-icon_social_yt{
+  display: flex;
+  height: 16px;
+  width: 16px;
+  background-image: url(../images/youtube_color_white.svg);
+}

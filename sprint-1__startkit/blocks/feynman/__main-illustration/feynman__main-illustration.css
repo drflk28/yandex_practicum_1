@@ -1,0 +1,11 @@
+.feynman__main-illustration {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background-image: url(sprint-1__startkit/images/feynman.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 867px;
+  height: 637px;
+  z-index: -1;
+}

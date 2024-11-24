@@ -1,0 +1,10 @@
+
+.footer__column-heading_social{
+  color: #f2f2f2;
+  display: flex;
+  margin-bottom: 20px;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: 600;
+  width: 100%;
+}
